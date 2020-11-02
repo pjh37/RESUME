@@ -11,6 +11,7 @@
 + ### Github: [github.com/pjh37](https://github.com/pjh37)
 + ### blog: [pjh37.github.io/blog](https://pjh37.github.io/blog)
 
+<br/>
 
 > + 주로 웹, 앱 프로젝트를 진행하였으며 학교,팀단위 프로젝트에서 Back End를 담당해왔습니다.
 > + 테스트코드, 코드의 가독성, 클린 코드의 중요성을 항상 생각하고 개인, 사이드 프로젝트를 하며 알 게 된 점과 해결한 어려움점등을 GitHub Blog에 정리하며 엔지니어로서 멈추지 않는 꾸준한 성장을 가장 큰 가치로 생각하고 있습니다.
@@ -25,10 +26,10 @@
  학력
  ====
 
- + ### 배재고등학교 졸업(2011~2013)
- + ### 광운대학교 소프트웨어학부 졸업예정(2015~2021.2)
+ + ### 배재고등학교 졸업(2011/03~2014/02)
+ + ### 광운대학교 소프트웨어학부 졸업예정(2015/03~2021.02)
 
- <br/>
+
 
  어학/자격
  ====
@@ -80,6 +81,14 @@
  프로젝트 이력
  ====
 
+ ## Study V
+ + ### 소개 : 스터디 그룹 모집 및 동영상 스트리밍, 친구를 초대해 채팅가능
+ + ### 기간 : 2020.04~2020.09
+ + ### 역할 : 개인 프로젝트
+ + ### 관련기술 : java,spring boot,aws ec2,s3,cdn,docker,nginx,redis
+ + ### 자세한 내용[GitHub](https://github.com/pjh37/pjh-springboot-webservice)
+
+
  ## checkmate(졸업작품)
  + ### 소개 : 개인 설문 제작 및 설문결과 분석 서비스, 그룹,채팅 추가
  + ### 기간 : 2019.12~2020.5
@@ -87,8 +96,4 @@
  + ### 관련기술 : Android(glide,retrofit적용),node js,mysql
  + ### 자세한 설명[GitHub](https://github.com/pjh37/graduationProject)
 
- ## Study V
- + ### 소개 : 스터디 그룹 모집 및 동영상 스트리밍, 친구를 초대해 채팅가능
- + ### 기간 : 2020.04~2020.09
- + ### 역할 : 개인 프로젝트
- + ### 자세한 내용[GitHub](https://github.com/pjh37/pjh-springboot-webservice)
+ 
